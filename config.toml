@@ -1,4 +1,4 @@
-baseURL = "http://vilnia.com/"
+baseURL = ""
 languageCode = "be"
 title = "Віленскі беларускі музэй імя Івана Луцкевіча"
 theme = "ananke"
