@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://vilnia.com/be/sitemap.xml</loc>
+    
+      <lastmod>2021-03-29T17:20:31+03:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://vilnia.com/lt/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://vilnia.com/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

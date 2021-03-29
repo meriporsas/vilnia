@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Рознае on Віленскі беларускі музэй імя Івана Луцкевіча</title>
+    <link>http://vilnia.com/varia/</link>
+    <description>Recent content in Рознае on Віленскі беларускі музэй імя Івана Луцкевіча</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>be</language>
+    <lastBuildDate>Mon, 29 Mar 2021 17:20:31 +0300</lastBuildDate><atom:link href="http://vilnia.com/varia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arkestra</title>
+      <link>http://vilnia.com/varia/arkestra/</link>
+      <pubDate>Mon, 29 Mar 2021 17:20:31 +0300</pubDate>
+      
+      <guid>http://vilnia.com/varia/arkestra/</guid>
+      <description>Гісторыя аркестру
+  Быў аркестар</description>
+    </item>
+    
+  </channel>
+</rss>
